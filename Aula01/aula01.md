@@ -94,9 +94,10 @@ Com este aplicativo iremos levantar idéias para um game tipo FlapBird !
 
 * Flap bird: https://hourofcode.com/flap
 
-#
+* https://disneyplusoriginals.disney.com/show/light-and-magic
 
-![Guima Games](../.github/favicon.ico) https://guima-games.firebaseapp.com/
+#
+<a href="https://guima-games.firebaseapp.com/" target="_blank"><img src="../.github/favicon.ico" /></a>
 
 
 
