@@ -78,13 +78,27 @@
 * Aplicativo PureRef:
 https://www.pureref.com/
 
-Com este aplicativo iremos levantar idéias para um game tipo FlapBird ! 
+Com este aplicativo iremos levantar idéias para um game tipo FlapBird ! (Pulamos para o Minecraft)
+
+* Documento Google Docs:
+https://docs.google.com/document/d/1v01YBCmy-Pw_IF8qdFO2UDtgLteyAFL1abU3DrZiJmE/edit?usp=
+
+* MagicaVoxel: (Edição com cubinhos)
+
 
 # Referências Estudo:
 
 * https://code.org/
 
 * https://code.org/learn
+
+* CodePen: https://codepen.io/elifitch/pen/NWGWXr
+
+* Minecraft: https://code.org/minecraft 
+
+* https://studio.code.org/s/aquatic/lessons/1/levels/1
+
+* Aula 1: https://youtu.be/BwRx001clRk
 
 
 * ### Atari: https://www.youtube.com/watch?v=6kJ_79ih9rI
