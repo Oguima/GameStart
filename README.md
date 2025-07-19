@@ -74,6 +74,17 @@ Aprendendo detalhes do Metaverso Sandbox.
 
 *  Scratch JR: https://www.youtube.com/watch?v=LgF-ncOcFXc
 
+# logando no Repo Local:
+
+git config --global user.name "Seu Nome"
+git config --global user.email "seu@email.com"
+
+git config user.name "Rafael Guimarães dos Santos"
+git config user.email "rafaelguima@outlook.com"
+
+gerando ssh:
+ssh-keygen -t ed25519 -C "rafaelguima@outlook.com"
+
 
 #
 
